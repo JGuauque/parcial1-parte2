@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        LibroDeTextoIUAJC libro1 = new LibroDeTextoIUAJC("Examenes Imposibles", "Dario Bautista", "Programacion II", "tec_sistemas");
+        LibroDeTextoUNIAJC libro1 = new LibroDeTextoUNIAJC("Examenes Imposibles", "Dario Bautista", "Programacion II", "tec_sistemas");
         libro1.setPrecio(150.0);
         libro1.setPropietario("Jorge");
 
